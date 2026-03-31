@@ -27,7 +27,7 @@ Next clone this repo to use
 
 
 ### 3. Navigate to the Code Directory
-change the directory to 
+change the directory to :
      cd code
 
 
