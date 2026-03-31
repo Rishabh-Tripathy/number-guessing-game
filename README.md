@@ -2,29 +2,28 @@
 
 [![Status: Complete](https://img.shields.io/badge/Status-Complete-success?style=flat-square)](https://github.com/Rishabh-Tripathy/number-guessing-game)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Number Guessing](https://img.shields.io/badge/Number--Guessing-Game-blue?style=flat-square)]
+[![Number Guessing](https://img.shields.io/badge/Number--Guessing-Game-blue?style=flat-square)](#)
 
 ---
 
-This is a machine learning project using TensorFlow to identify handwritten digits from 0-9.
+<b>This is a machine learning project using TensorFlow to identify handwritten digits from 0-9.</b>
 
 ---
 
 
 #### How to Install: 
-<details>
- <summary><b>Tell people what libraries they need.</b></summary>
-
+Install the required library using pip.
+ 
      pip install tensorflow numpy matplotlib
   
-</details>
 
-<details>
- <summary><b>How to Run: Tell them which file to execute.</b></summary>
+
+### How to Run: 
+After installating run this program to execute the program 
 
      python main.py
 
-</details>
+
 
 
 ### Results/Screenshots: 
