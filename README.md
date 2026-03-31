@@ -10,23 +10,37 @@
 
 ---
 
-
-#### How to Install: 
-Install the required library using pip.
- 
-     pip install tensorflow numpy matplotlib
-  
+## How to Run : 
+Follow these steps to get the project running on your local machine:
 
 
-### How to Run: 
-After installating run this program to execute the program 
-
-     python main.py
-
+### 1. Prerequisites
+Ensure you have Python installed. You will also need to install the following libraries:
+      pip install tensorflow numpy matplotlib
 
 
+### 2. Clone the Repository:
+Next clone this repo to use 
 
-### Results/Screenshots: 
+     git clone https://github.com/Rishabh-Tripathy/number-guessing-game
+
+
+
+### 3. Navigate to the Code Directory
+change the directory to 
+     cd code
+
+
+
+### 4.Execute the Script :
+Run the main Python file:
+
+      python main.py
+
+---
+
+
+## Results/Screenshots: 
   Here is the look of how it looks after running . 
  ![image](./code/results.png)
 
