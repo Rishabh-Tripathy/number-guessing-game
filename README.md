@@ -8,10 +8,10 @@ This is a machine learning project using TensorFlow to identify handwritten digi
 
 
 #### How to Install: 
-    Tell people what libraries they need.
+ Tell people what libraries they need.
 
-   <details open>pip install tensorflow numpy matplotlib
-   </details>
+   pip install tensorflow numpy matplotlib
+  
 
 How to Run: Tell them which file to execute.
 
