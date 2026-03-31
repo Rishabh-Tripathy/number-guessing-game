@@ -8,14 +8,21 @@ This is a machine learning project using TensorFlow to identify handwritten digi
 
 
 #### How to Install: 
- Tell people what libraries they need.
+<details>
+ <summary><b>Tell people what libraries they need.</b></summary>
 
-  <details> pip install tensorflow numpy matplotlib</details>
+     pip install tensorflow numpy matplotlib
   
+</details>
 
-How to Run: Tell them which file to execute.
+<details>
+ <summary><b>How to Run: Tell them which file to execute.</b></summary>
 
-python main.py
+     python main.py
 
-Results/Screenshots: This is the most important part! Since this is a visual project, upload a screenshot of your code predicting a number and embed it using:
-![Alt text](path/to/your/image.png)
+</details>
+
+
+### Results/Screenshots: 
+  Here is the look of how it looks after running . 
+ ![image](./code/results.png)
