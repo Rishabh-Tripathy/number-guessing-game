@@ -2,8 +2,8 @@ import random
 
 print("Hi! Welcome to the Number Guessing Game.\nYou have 7 chances to guess the number. Let's start!")
 
-low = int(input("Enter the Lower Bound: "))
-high = int(input("Enter the Upper Bound: "))
+low = int(input("Enter the Lower Bound: "))     #Getting lower input 
+high = int(input("Enter the Upper Bound: "))    #Getting higher input
 
 print(f"\nYou have 7 chances to guess the number between {low} and {high}. Let's start!")
 
