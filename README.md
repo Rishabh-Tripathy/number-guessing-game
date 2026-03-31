@@ -6,7 +6,7 @@
 
 ---
 
-<b>This is a machine learning project using TensorFlow to identify handwritten digits from 0-9.</b>
+<b>This is a game where the user is asked to input upper and lower limit then user have 7 guess to get the correct number by guessing it.</b>
 
 ---
 
